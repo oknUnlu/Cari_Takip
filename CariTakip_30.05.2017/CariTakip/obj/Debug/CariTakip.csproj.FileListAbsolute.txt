@@ -1,0 +1,220 @@
+F:\AristdesWebSite\CariTakip\CariTakip\bin\CariTakip.dll.config
+F:\AristdesWebSite\CariTakip\CariTakip\bin\CariTakip.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\CariTakip.pdb
+F:\AristdesWebSite\CariTakip\CariTakip\bin\Antlr3.Runtime.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\BCrypt.Net.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\FluentMigrator.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\Iesi.Collections.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\Microsoft.Web.Infrastructure.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\MySql.Data.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\Newtonsoft.Json.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\NHibernate.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.Helpers.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.Mvc.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.Optimization.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.Razor.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.WebPages.Deployment.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.WebPages.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.WebPages.Razor.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\WebGrease.dll
+F:\AristdesWebSite\CariTakip\CariTakip\bin\Antlr3.Runtime.pdb
+F:\AristdesWebSite\CariTakip\CariTakip\bin\BCrypt.Net.pdb
+F:\AristdesWebSite\CariTakip\CariTakip\bin\BCrypt.Net.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\FluentMigrator.pdb
+F:\AristdesWebSite\CariTakip\CariTakip\bin\FluentMigrator.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\Iesi.Collections.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\Newtonsoft.Json.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\NHibernate.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.Helpers.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.Mvc.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.Optimization.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.Razor.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.WebPages.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.WebPages.Deployment.xml
+F:\AristdesWebSite\CariTakip\CariTakip\bin\System.Web.WebPages.Razor.xml
+F:\AristdesWebSite\CariTakip\CariTakip\obj\Debug\CariTakip.dll
+F:\AristdesWebSite\CariTakip\CariTakip\obj\Debug\CariTakip.pdb
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll.config
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\CariTakip.pdb
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\MySql.Data.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\NHibernate.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\WebGrease.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.pdb
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.pdb
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.pdb
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\NHibernate.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.xml
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.csprojResolveAssemblyReference.cache
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.dll
+C:\Users\okan\Desktop\Cari_28.5.2017\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.pdb
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll.config
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\CariTakip.pdb
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\MySql.Data.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\NHibernate.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\WebGrease.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.pdb
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.pdb
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.pdb
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\NHibernate.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.xml
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.csprojResolveAssemblyReference.cache
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.dll
+C:\Users\okan\Desktop\OKAN\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.pdb
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll.config
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\CariTakip.pdb
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\MySql.Data.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\NHibernate.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\WebGrease.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.pdb
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.pdb
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.pdb
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\NHibernate.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.xml
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.dll
+C:\Users\okan\Desktop\Uygulamalar\Projhe CariHesap\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.pdb
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll.config
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\CariTakip.pdb
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\MySql.Data.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\NHibernate.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\WebGrease.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.pdb
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.pdb
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.pdb
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\NHibernate.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.xml
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.csprojResolveAssemblyReference.cache
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.dll
+C:\Users\okan\Desktop\Uygulamalar\Asp.Net-MVC_CariTakip\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.pdb
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll.config
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\CariTakip.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\CariTakip.pdb
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\MySql.Data.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\NHibernate.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\WebGrease.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\Antlr3.Runtime.pdb
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.pdb
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\BCrypt.Net.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.pdb
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\FluentMigrator.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\Iesi.Collections.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\Newtonsoft.Json.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\NHibernate.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Helpers.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Mvc.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Optimization.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.Razor.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\bin\System.Web.WebPages.Razor.xml
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.csprojResolveAssemblyReference.cache
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.dll
+C:\Users\okan\Desktop\Uygulamalar\GitHub\Cari_Takip\CariTakip_30.05.2017\CariTakip\obj\Debug\CariTakip.pdb

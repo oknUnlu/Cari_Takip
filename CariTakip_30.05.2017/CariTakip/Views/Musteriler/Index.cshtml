@@ -1,0 +1,102 @@
+﻿@model CariTakip.ViewModels.MusterilerIndex
+
+
+    <h1 style="text-align:center">Müşteriler</h1>
+ 
+        @using(Html.BeginForm("Index","Musteri",FormMethod.Get))
+        {
+            <div class="panel panel-default">
+                <div class="panel-heading">Arama İşlemleri</div>
+              <div class="panel-body" style="background-color:#cabdbd">
+
+                  <div class="form-group">       
+                      @Html.RadioButton("SecilenArama", "Ad", true)  @Html.Label("Ada Göre")
+                      @Html.RadioButton("SecilenArama", "FirmaAd")  @Html.Label("Firmaya Göre")
+                      @Html.RadioButton("SecilenArama", "TcNo") @Html.Label("Tc Göre")
+                      @Html.RadioButton("SecilenArama", "VergiNo") @Html.Label("VergiNo Göre")<br />
+                      @Html.Label("Arama:")
+                      @Html.TextBox("arama")
+                      <input type="submit" value="Ara" class="btn btn-success btn-sm" />
+
+                  </div>
+              </div>
+              </div>
+
+        }
+      
+        @*<div class="btn btn-toolbar">
+            <a href="@Url.Action("Yeni")" class="btn btn-primary btn-sm"><i class="glyphicon glyphicon-plus"></i> Yeni Muşteri Ekle</a>
+        </div>*@
+
+        <div class="dropdown">
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                Yeni Müşteri Ekle
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li><a href="@Url.Action("FirmaYeni")">Şirket Adına Müşteri Ekle</a></li>
+                <li><a href="@Url.Action("SahisYeni")">Şahıs Adına Müşteri Ekle</a></li>
+            </ul>
+        </div>
+
+
+        <table class="table table-striped" style="background-color:#a39f9f">
+            <thead>
+                <tr style="color:#052b48">
+                    <th>Ad</th>
+                    <th>Soyad</th>
+                    <th>Firma Adı</th>
+                    <th>Tc</th>
+                    <th>Vergi No</th>
+                    <th>Tel</th>
+                    <th>Email</th>
+                    <th>Adres</th>
+                    <th>İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var musteri in Model.Musteriler)
+                {
+                    <tr>
+                        <td>@musteri.Ad</td>
+                        <td>@musteri.Soyad</td>
+                        <td>@musteri.FirmaAdi</td>
+                        <td>@musteri.Tc</td>
+                        <td>@musteri.VergiNo</td>
+                        <td>@musteri.Tel</td>
+                        <td>@musteri.Email</td>
+                        <td>@musteri.Adres</td>
+                        <td>
+
+                            <div class="btn btn-group btn-group-xs">
+                                @if (musteri.SilindiMi)
+                                {
+                                    <a href="@Url.Action("Kurtar", new { musteri.Id })" class="btn btn-success btn-sm"><i class="glyphicon glyphicon-plus-sign"></i>Kurtar</a>
+                                }
+                                else
+                                {
+                                    <a href="@Url.Action("Duzenle", new {musteri.Id })" class="btn btn-primary btn-sm"><i class="glyphicon glyphicon-edit"></i>Düzenle</a>
+                                    <a href="@Url.Action("CopeAt",new {musteri.Id})" class="btn btn-danger btn-sm"><i class="glyphicon glyphicon-remove"></i>Çöpe At</a>
+
+
+                                    <a href="#" class="btn btn-danger dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a href="@Url.Action("Sil", new { musteri.Id })" data-post="Silmek istiyor musunuz? :@musteri.Ad @musteri.Soyad">
+                                                <i class="glyphicon glyphicon-remove "></i>Silme Islemi
+                                            </a>
+                                        </li>
+                                    </ul>
+                                      <a href="@Url.Action("KasaIndex", new { musteri.Id })" class="btn btn-warning btn-sm"><i class="glyphicon glyphicon-king"></i>Kasa</a>
+                                     
+                                }
+
+                            </div>
+
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    

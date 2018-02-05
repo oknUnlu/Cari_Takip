@@ -1,0 +1,111 @@
+﻿@model CariTakip.ViewModels.KasaIndex
+<h1 style="text-align:center;color:#ffffff;">Kasa Oluştur: @Model.MusteriAdi @Model.MusteriSoyadi  </h1>
+
+<hr/>
+<div class="btn-group pull-right">
+
+
+    @if (Model.CariHesap.HasPreviousPage)
+    {
+        <a href="@Url.Action("KasaIndex", new { page = Model.CariHesap.PreviousPage(), Id = Model.MusteriID })" class="btn btn-default btn-sm"><i class="glyphicon glyphicon-chevron-left"></i>Önceki Sayfa</a>
+    }
+    else
+    {
+
+        <a href="#" class="btn btn-default btn-sm disabled">
+            <i class="glyphicon glyphicon-chevron-left"></i>Önceki Sayfa
+        </a>
+    }
+    @if (Model.CariHesap.HasNextPage)
+    {
+        <a href="@Url.Action("KasaIndex", new { page = Model.CariHesap.NextPage(),Id=Model.MusteriID })" class="btn btn-default btn-sm">
+            <i class="glyphicon glyphicon-chevron-right"></i> Sonraki Sayfa
+        </a>
+    }
+    else
+    {
+        <a href="#" class="btn btn-default btn-sm disabled">
+            <i class="glyphicon glyphicon-chevron-right disabled"></i> Sonraki Sayfa
+        </a>
+    }
+</div>
+
+
+
+    <div class="btn btn-toolbar">
+        <a href="@Url.Action("KasaYeni", "Musteriler", new { Model.MusteriID })" class=" btn btn-primary btn-sm"><i class="glyphicon glyphicon-plus"></i> Yeni Cari Ekle</a>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr style="color: #ffffff;" >
+             
+                <th>Tarih</th>
+                <th>Saat</th>
+                <th>Aciklama</th>
+                <th>Borç</th>
+                <th>Alacak</th>
+                <th>Türü</th>
+                <th>Ödeme Şekli</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var carihesap in Model.CariHesap)
+            {
+                <tr style="color: #cbae48">
+                   
+                    <td>@carihesap.Tarih.ToString("MM/dd/yyyy")</td>
+                    <td>@carihesap.Tarih.ToString("HH: mm :ss")</td>
+                    <td>@carihesap.Aciklama</td>
+                    <td>@carihesap.GirilenMiktar</td>
+                    <td>@carihesap.CikanMiktar</td>
+                 
+                    <td>@carihesap.Tur.Adi</td>
+                    <td>@carihesap.OdemeSekli.Adi</td>
+                    <td>
+                        <div class="dropdown">
+                            <button class="btn btn-warning btn-xs dropdown-toggle" type="button" data-toggle="dropdown">
+                                İşlem Seç
+                                <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu">
+
+                                <li><a href="@Url.Action("KasaDuzenle", "Musteriler", new { carihesap.Id })">Düzenle</a></li>
+                                <li><a href="@Url.Action("KasaSil", "Musteriler", new { carihesap.Id })" data-post="@carihesap.Tarih Kayıtı silmek istiyor musunuz? ">Sil</a></li>
+                                
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+<hr />
+
+  
+    <a href="@Url.Action("KasaExcellCikart", "Musteriler", new { Model.MusteriID })" class="btn btn-default"><i class="glyphicon glyphicon-export"></i>Excel'e Çıkart</a>
+    <div class="btn-group pull-right">
+        <div class="panel panel-default">
+            <div class="panel-heading">Sonuç</div>
+            <div class="panel-body" style="background-color:rgba(240, 179, 93, 0.90)">
+
+                <div class="form-group">
+
+
+                    Borç : @Model.GirenMiktar   <br />  Alacak :@Model.CikanMiktar<br />
+                    @if (Model.GirenMiktar > Math.Abs(Model.CikanMiktar))
+                    {
+                        <b>Kalan Borç:</b> @Model.KalanMiktar
+                    }
+                    else
+                    {
+                        <b>Kalan Alacak:</b> @Model.KalanMiktar
+                    }
+                </div>
+            </div>
+
+        </div>
+    
+    </div>

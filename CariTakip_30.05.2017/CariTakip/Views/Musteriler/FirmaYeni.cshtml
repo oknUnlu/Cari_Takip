@@ -1,0 +1,47 @@
+﻿@model CariTakip.ViewModels.MusterilerYeni
+<h1 style="text-align:center;color:#ffffff;">Yeni Müşteri Ekleme</h1>
+<hr />
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+
+    <hr />
+        <div class="form-group">
+            @Html.LabelFor(x => x.VergiNo, new { @style = "color:#ffffff" })
+            @Html.TextBoxFor(x => x.VergiNo, new { @class = "form-control", @required = "@required" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.Ad, new { @style = "color:#ffffff" })
+            @Html.TextBoxFor(x => x.Ad, new { @class = "form-control", @required = "@required" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.Soyad, new { @style = "color:#ffffff" })
+            @Html.TextBoxFor(x => x.Soyad, new { @class = "form-control", @required = "@required" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.FirmaAdi, new { @style = "color:#ffffff" })
+            @Html.TextBoxFor(x => x.FirmaAdi, new { @class = "form-control", @required = "@required" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.Tel, new { @style = "color:#ffffff" })
+            @Html.TextBoxFor(x => x.Tel, new { @class = "form-control", @required = "@required" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.Email, new { @style = "color:#ffffff" })
+            @Html.TextBoxFor(x => x.Email, new { @class = "form-control", type = "email", @required = "@required" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.Adres, new { @style = "color:#ffffff" })
+            @Html.TextBoxFor(x => x.Adres, new { @class = "form-control", @required = "@required" })
+        </div>
+        <hr />
+        <div class="form-group">
+            <input type="submit" value="Muşteri Oluştur" class="btn btn-success" />
+
+            <a href="@Url.Action("Index")" class="btn btn-primary pull-right">
+                Geri Dön
+            </a>
+
+
+        </div>
+}
